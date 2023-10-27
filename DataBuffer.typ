@@ -1,11 +1,11 @@
-(*
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Library: DataBuffer
  * File: DataBuffer.typ
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of DataBuffer, licensed under the MIT License.
- * 
-  ********************************************************************
+ * Author: davidblackburn
+ * Created: June 23, 2014
+ ********************************************************************
  * Data types of library DataBuffer
  ********************************************************************)
 
