@@ -1,13 +1,11 @@
-/********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DataBuffer
+/*
  * File: datbufClearBuffer.c
- * Author: davidblackburn
- * Created: June 23, 2014
- ********************************************************************
- * Implementation of library DataBuffer
- ********************************************************************/
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DataBuffer, licensed under the MIT License.
+ * 
+ */
 
 #include <bur/plctypes.h>
 #ifdef __cplusplus
