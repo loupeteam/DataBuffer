@@ -1,13 +1,11 @@
 (*
- * File: DataBuffer.typ
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of DataBuffer, licensed under the MIT License.
- * 
-  ********************************************************************
- * Data types of library DataBuffer
- ********************************************************************)
+* File: DataBuffer.typ
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of DataBuffer, licensed under the MIT License.
+* 
+*)
 
 TYPE
 	DATBUF_ERR_enum : 

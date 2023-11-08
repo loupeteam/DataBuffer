@@ -1,13 +1,11 @@
 (*
- * File: DataBuffer.var
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of DataBuffer, licensed under the MIT License.
- * 
-  ********************************************************************
- * Constants of library DataBuffer
- ********************************************************************)
+* File: DataBuffer.var
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of DataBuffer, licensed under the MIT License.
+* 
+*)
 
 VAR CONSTANT
 
