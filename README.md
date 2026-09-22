@@ -8,9 +8,9 @@ info@loupe.team
 DataBuffer is useful for managing a bunch of data that needs to be appended. It allows data to be appended without recalculating current length each time.
 
 # Use Cases
--Concatentating several strings efficiently
+- Concatenating several strings efficiently
 
--Concatentating data that is not a String
+- Concatenating data that is not a string
 
 For more documentation and examples, see https://loupeteam.github.io/LoupeDocs/libraries/databuffer.html
 
