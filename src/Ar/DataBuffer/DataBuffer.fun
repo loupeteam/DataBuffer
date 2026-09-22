@@ -7,7 +7,7 @@
 * 
 *)
 
-FUNCTION datbufClearBuffer : UINT (*Clear a data buffer. Returns 0 or a DATBUF_ERR_enum value*) (*$GROUP=User*)
+FUNCTION datbufClearBuffer : UINT (*Reset the buffer length to 0 and zero its data. Returns 0 or a DATBUF_ERR_enum value*) (*$GROUP=User*)
 	VAR_INPUT
 		pBuffer : UDINT; (*Address of an initialized datbufBuffer_typ*)
 	END_VAR
@@ -24,6 +24,6 @@ FUNCTION datbufAppendToBuffer : UINT (*Append data to a data buffer. Returns 0 o
 	VAR_INPUT
 		pBuffer : UDINT; (*Address of an initialized datbufBuffer_typ*)
 		pData : UDINT; (*Address of the data to append*)
-		dataLength : UDINT; (*Number of bytes to append [bytes]*)
+		dataLength : UDINT; (*Length of data to append [bytes]*)
 	END_VAR
 END_FUNCTION
