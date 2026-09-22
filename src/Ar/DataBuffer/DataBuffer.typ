@@ -8,8 +8,8 @@
 *)
 
 TYPE
-	DATBUF_ERR_enum : (*Status values returned by the DataBuffer functions*)
-		(
+	DATBUF_ERR_enum : 
+		( (*Status values returned by the DataBuffer functions*)
 		DATBUF_ERR_INVALIDINPUT := 50000, (*A required address is 0, or maxLength is 0*)
 		DATBUF_ERR_MEMALLOC, (*Memory for the buffer could not be allocated*)
 		DATBUF_ERR_NOTINITIALIZED, (*Buffer has not been initialized with datbufInitBuffer*)
